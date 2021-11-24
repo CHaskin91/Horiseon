@@ -13,5 +13,10 @@ This project is our first assignment with Rice University Coding Bootcamp.  Our 
 * Descriptive Title added
 
 ## Links
-[Link to Deployed Website](https://chaskin91.github.io/Horiseon_asgn1_refactor/#search-engine-optimization)
-[Link to Code Repository](https://github.com/CHaskin91/Horiseon_asgn1_refactor)
+* [Link to Deployed Website](https://chaskin91.github.io/Horiseon_asgn1_refactor/#search-engine-optimization)
+* [Link to Code Repository](https://github.com/CHaskin91/Horiseon_asgn1_refactor)
+
+
+## Resources
+* [Semantic HTML Help](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#content_sectioning)
+* [Alt Image Attributes Help](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
